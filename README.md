@@ -11,18 +11,18 @@ Teremos 2 ambientes: o de perguntas e o de respostas
 Para isso vamos precisar:
 
 ### Mecanismo de login
-1.1. Cadastro
-  1.1.1. Nome
-  1.1.2. E-mail
-  1.1.3. Endereço
-  1.1.4. Data de nascimento
-  1.1.5. Nome de usuário
-  1.1.6. Senha
-1.2. Login
-1.3. Recuperação de senha
-  1.3.1. Recuperação via email.
-1.4. Login via Google.
-1.5. Login via GitHub.
+- 1.1. Cadastro
+  - 1.1.1. Nome
+  - 1.1.2. E-mail
+  - 1.1.3. Endereço
+  - 1.1.4. Data de nascimento
+  - 1.1.5. Nome de usuário
+  - 1.1.6. Senha
+- 1.2. Login
+- 1.3. Recuperação de senha
+  - 1.3.1. Recuperação via email.
+- 1.4. Login via Google.
+- 1.5. Login via GitHub.
 
 ### Página para criar um artigo
 2.1 Página para gerenciar seus artigos. (CRUD) (apenas usuários logados)
