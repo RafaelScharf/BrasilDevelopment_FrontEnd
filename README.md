@@ -25,15 +25,15 @@ Para isso vamos precisar:
 - 1.5. Login via GitHub.
 
 ### Página para criar um artigo
-2.1 Página para gerenciar seus artigos. (CRUD) (apenas usuários logados)
-2.2 Editor de texto (apenas usuários logados)
-2.3 Dashboard (apenas usuários logados)
-2.4 Página pública para visualizar artigos, separados por categoria. (para qualquer público)
+- 2.1 Página para gerenciar seus artigos. (CRUD) (apenas usuários logados)
+- 2.2 Editor de texto (apenas usuários logados)
+- 2.3 Dashboard (apenas usuários logados)
+- 2.4 Página pública para visualizar artigos, separados por categoria. (para qualquer público)
 
 ### Página para duvidas, estilo pergunta e a comunidade responde
-2.1. Página para gerenciar suas dúvidas. (CRUD) (apenas usuários logados)
-2.2. Página pública para visualizar as dúvidas. (para qualquer usuário)
-2.3. Responder perguntas (apenas usuários logados)
+- 2.1. Página para gerenciar suas dúvidas. (CRUD) (apenas usuários logados)
+- 2.2. Página pública para visualizar as dúvidas. (para qualquer usuário)
+- 2.3. Responder perguntas (apenas usuários logados)
 
 
 
