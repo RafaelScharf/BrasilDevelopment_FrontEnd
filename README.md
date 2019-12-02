@@ -9,7 +9,7 @@ Aplicação permite que os usuários façam perguntas e respondam a perguntas
 Teremos 2 ambientes: o de perguntas e o de respostas
 Para isso vamos precisar:
 
-### Mecanismo de login
+### 1. Mecanismo de login
 - 1.1. Cadastro
   - 1.1.1. Nome
   - 1.1.2. E-mail
@@ -24,16 +24,16 @@ Para isso vamos precisar:
 - 1.5. Login via GitHub
 - Dashboard (apenas usuários logados)
 
-### Página para criar um artigo
-- 2.1 Página para gerenciar seus artigos. (CRUD) (apenas usuários logados)
-- 2.2 Editor de artigo (apenas usuários logados)
+### 2. Página para criar um artigo
+- 2.1. Página para gerenciar seus artigos. (CRUD) (apenas usuários logados)
+- 2.2. Editor de artigo (apenas usuários logados)
   - Conteúdo em texto ou multimídia (vídeo, foto, gif, etc)
-- 2.4 Página pública para visualizar artigos, separados por categoria. (para qualquer público)
+- 2.4. Página pública para visualizar artigos, separados por categoria. (para qualquer público)
 
-### Página para dúvidas, estilo pergunta e a comunidade responde
-- 2.1. Página para gerenciar suas dúvidas. (CRUD) (apenas usuários logados)
-- 2.2. Página pública para visualizar as dúvidas. (para qualquer usuário)
-- 2.3. Responder perguntas (apenas usuários logados)
+### 3. Página para dúvidas, estilo pergunta e a comunidade responde
+- 3.1. Página para gerenciar suas dúvidas. (CRUD) (apenas usuários logados)
+- 3.2. Página pública para visualizar as dúvidas. (para qualquer usuário)
+- 3.3. Responder perguntas (apenas usuários logados)
 
 ### Página de recursos, onde pode ser diponibilizado links e materiais de estudo
 - Página para gerenciar seus recursos. (CRUD) (apenas usuários logados)
@@ -48,4 +48,12 @@ https://docs.google.com/document/d/1PPQEEe4aPjWmOIEmnIMF-rhbL2CyTepUUf2OI8EiOOA/
   
 Obs: Caso saibam uma forma melhor pra retirarmos as regras de negócio podem editar!
   
- ## Vamos começar! 
+ ### Vamos começar! Contribuar com o seguindo o passo a passo.
+ > Correções ortagráficas, layout e etc... Você pode fazer suas alterações seguindo os itens abaixo e auxiliando no projeto.
+
+1. Fork no projeto.
+2. Crie sua nova branch (git checkout -b my-branch).
+3. Faça as alterações e correções.
+4. Commit sua alterações (git commit -am "Minhas alterações).
+5. Push no seu commit para seu branch (git push origin my-branch).
+6. Crie um novo Pull request.
