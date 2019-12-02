@@ -1,4 +1,6 @@
 # BrasilDevelopment
+
+## Objetivo
 Este projeto tem o intuito de nascer e crescer com a comunidade com o objetivo de compartilhar conhecimento entre nossa comunidade de Devs pelo Brasil.
 
 ## Escopo do Projeto
@@ -10,7 +12,7 @@ Aplicação permite que os usuários façam perguntas e respondam a perguntas
 Teremos 2 ambientes: o de perguntas e o de respostas
 Para isso vamos precisar:
 
-### Mecanismo de login
+### 1. Mecanismo de login
 - 1.1. Cadastro
   - 1.1.1. Nome
   - 1.1.2. E-mail
@@ -24,16 +26,16 @@ Para isso vamos precisar:
 - 1.4. Login via Google.
 - 1.5. Login via GitHub.
 
-### Página para criar um artigo
+### 2. Página para criar um artigo
 - 2.1 Página para gerenciar seus artigos. (CRUD) (apenas usuários logados)
 - 2.2 Editor de texto (apenas usuários logados)
 - 2.3 Dashboard (apenas usuários logados)
 - 2.4 Página pública para visualizar artigos, separados por categoria. (para qualquer público)
 
-### Página para duvidas, estilo pergunta e a comunidade responde
-- 2.1. Página para gerenciar suas dúvidas. (CRUD) (apenas usuários logados)
-- 2.2. Página pública para visualizar as dúvidas. (para qualquer usuário)
-- 2.3. Responder perguntas (apenas usuários logados)
+### 3. Página para duvidas, estilo pergunta e a comunidade responde
+- 3.1. Página para gerenciar suas dúvidas. (CRUD) (apenas usuários logados)
+- 3.2. Página pública para visualizar as dúvidas. (para qualquer usuário)
+- 3.3. Responder perguntas (apenas usuários logados)
 
 
 
@@ -42,4 +44,12 @@ https://docs.google.com/document/d/1PPQEEe4aPjWmOIEmnIMF-rhbL2CyTepUUf2OI8EiOOA/
   
   Obs: Caso saibam uma forma melhor pra retirarmos as regras de negócio podem editar!
   
-  ## Vamos começar! 
+### Contribuir
+> Correções ortagráficas, layout e etc... Você pode fazer suas alterações seguindo os itens abaixo e auxiliando no projeto.
+
+1. Fork no projeto.
+2. Crie sua nova branch (git checkout -b my-branch).
+3. Faça as alterações e correções.
+4. Commit sua alterações (git commit -am "Breve mensagem sobre as alterações feitas").
+5. Push no seu commit para seu branch (git push origin my-branch).
+6. Crie um novo Pull request.
