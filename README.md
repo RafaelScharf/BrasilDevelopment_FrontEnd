@@ -49,3 +49,4 @@ https://docs.google.com/document/d/1PPQEEe4aPjWmOIEmnIMF-rhbL2CyTepUUf2OI8EiOOA/
 Obs: Caso saibam uma forma melhor pra retirarmos as regras de negócio podem editar!
   
  ## Vamos começar! 
+ Veja como contribui: https://github.com/RafaelScharf/BrasilDevelopment/blob/master/Contributing.md
