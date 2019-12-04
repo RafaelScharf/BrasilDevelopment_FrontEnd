@@ -1,5 +1,13 @@
 # Regras para contribuir 
 
+## Padrão de criação de branches
+Utilizar a seguinte nomenclatura, seguindo a estrutura de diretórios.
+
+dev/SUAS_INICIAIS/O_QUE_DESENVOLVE/NOME_DO_EXECUTADO
+
+Seguindo este padrão um exemplo seria:
+dev/lc/feature/listagemDeArtigos
+
 ## Contribuindo para uma quadro/issue ja existente
 1. Verfique se possui um quadro no Project Kanban, aqui no gitHub mesmo.
 2. Verficado, escolha o quadro/issue que preferir, preferencialmente um que não tenha sido iniciado.
