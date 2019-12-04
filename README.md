@@ -43,8 +43,11 @@ Para isso vamos precisar:
     - Pdf, videos, sites educativos, etc
   - 4.2.3 Sites de desafios e atividades práticas
 
-Link das regras de negocio:
+**Link das regras de negocio:**
 https://docs.google.com/document/d/1PPQEEe4aPjWmOIEmnIMF-rhbL2CyTepUUf2OI8EiOOA/edit?usp=sharing
+
+**Link do Repositório da API em AdonisJS**
+https://github.com/RafaelScharf/BrasilDevelopment-FrontEnd-AdonisJS
   
 Obs: Caso saibam uma forma melhor pra retirarmos as regras de negócio podem editar!
   
