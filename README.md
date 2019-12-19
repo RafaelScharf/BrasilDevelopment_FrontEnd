@@ -47,8 +47,8 @@ Para isso vamos precisar:
 https://docs.google.com/document/d/1PPQEEe4aPjWmOIEmnIMF-rhbL2CyTepUUf2OI8EiOOA/edit?usp=sharing
 
 **Link do Repositório da API em AdonisJS:**
-https://github.com/RafaelScharf/BrasilDevelopment-FrontEnd-AdonisJS
-  
+https://github.com/RafaelScharf/BrasilDevelopment_BackEnd
+
 Obs: Caso saibam uma forma melhor pra retirarmos as regras de negócio podem editar!
   
  ## Vamos começar! 
