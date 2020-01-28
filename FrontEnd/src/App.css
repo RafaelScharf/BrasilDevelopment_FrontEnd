@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 50px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.App-header img{
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+
+header h3 {
+  margin-left: 20px;
+}
+.App-link {
+  color: #09d3ac;
+}
+
+img{
+  width: 80px;
+}

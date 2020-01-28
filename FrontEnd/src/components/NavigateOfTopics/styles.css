@@ -1,0 +1,59 @@
+div{
+    height: 60px;
+    border-bottom: 1px solid gainsboro;
+}
+
+nav {
+    padding: 20px;
+    display: flex;    
+    justify-content: space-between;
+    align-content: center;
+    text-align: center;    
+}
+
+a{
+    cursor: pointer;  
+    transition: all 0.5s ease-out;
+    text-decoration: none;
+    color:gray;
+}
+
+a:active{
+    text-decoration: none;
+    color: gray;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+
+a span{
+    display: flex;
+    align-items: center;
+}
+
+
+a span label{
+    margin-left: 5px;
+}
+
+.icons{
+    cursor: pointer;
+
+}
+
+.icons-disable{
+    cursor: pointer;
+    color:gainsboro;
+}
+
