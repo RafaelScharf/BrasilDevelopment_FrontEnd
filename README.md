@@ -9,3 +9,5 @@ https://github.com/RafaelScharf/BrasilDevelopment_BackEnd
   
  ## Vamos começar! 
  Veja como contribuir: https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd/blob/master/Contributing.md
+ 
+ Saiba mais lendo nossa wiki
